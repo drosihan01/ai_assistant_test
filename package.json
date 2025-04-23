@@ -1,0 +1,21 @@
+{
+  "name": "openaitime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^16.5.0",
+    "elevenlabs": "^1.57.0",
+    "mic": "^2.1.2",
+    "openai": "^4.95.1",
+    "play-sound": "^1.1.6",
+    "word-wrap": "^1.2.5"
+  }
+}
