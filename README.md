@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## AI Assistant Test
 
 Carmen is a voice-activated AI assistant trained in espionage, sarcasm, and seduction. Built with OpenAI, ElevenLabs, and Node.js.
