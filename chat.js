@@ -116,7 +116,7 @@ async function speak(thingo) {
             model_id: "eleven_flash_v2_5",
             output_format: "mp3_44100_128",
             voice_settings: {
-                stability: 0.3,             // expressive without losing her chill
+                stability: 0.6,             // expressive without losing her chill
                 similarity_boost: 0.7,      // still feels like the same Carmen each time
                 //style: 0.7,                  // elevate that spy-drama delivery
                 //use_speaker_boost: true,     // clarity, power, and presence
